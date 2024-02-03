@@ -6,7 +6,7 @@ Para la intalacion necesitaremos contar con Java 11 intalado en nuestra computad
 https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html 
 
 # Programa elavorado con:
-- Intellij-Framework
+- Intellij IDEA
 - java SE Development Kit 11
 - `Git` para el repositorio local
 - `Github` para el repositorio en linea
