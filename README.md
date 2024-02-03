@@ -15,4 +15,4 @@ https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
 **Emmanuel De Leon Garcia** `DLionSys`
 
 # Licenicia
-  este trabajo esta bajo la licencia de **Emmanuel De Leon Garcia** y solo es para propocitos educativos
+Este trabajo esta bajo la licencia de **Emmanuel De Leon Garcia** y solo es para propocitos educativos.
